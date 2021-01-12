@@ -19,7 +19,7 @@ tags:
  -->
 
 
-우연히 유튜브에서 [드림코딩엘리님]([url](https://youtu.be/kMEb_BzyUqk))의 Markdown 작성법을 보고 블로그를 시작하게 하면서,   
+우연히 유튜브에서 [드림코딩엘리님](https://youtu.be/kMEb_BzyUqk)의 Markdown 작성법을 보고 블로그를 시작하게 하면서,   
 해당 영상의 내용을 정리해 보았다.
 
 <br/><br/>
