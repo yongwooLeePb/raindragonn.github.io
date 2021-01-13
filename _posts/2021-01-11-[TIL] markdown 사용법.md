@@ -36,8 +36,11 @@ tags:
 <br/><br/>
 
 <!-- Line 추가 -->
+
 라인 추가 - `___`
+
 ___
+
 <br/><br/>
 
 텍스트
@@ -109,7 +112,7 @@ Click [here](https://github.com/raindragonn)
 코드 작성
 ===
 
-![코드](/img/2021-01-12.png)
+![코드][code]
 
 
 ```kotlin
@@ -126,12 +129,22 @@ fun main(){
     }
     
 end code block.   
-   
+<br/>
+
+[그외 잘 정리된 블로그][총정리]
+
    <br/><br/><br/>
 
-참고 문헌
+참고
+
 ___
-1. [마크다운 작성법](https://gist.github.com/raindragonn/7e64da15b9365a5e8d6b53577b71ef77)
-2. [드림코딩 엘리](https://youtu.be/kMEb_BzyUqk)
+
+1. [마크다운 작성법][markdown]
+2. [드림코딩 엘리][엘리]
 
 
+
+[code]: /img/post/2021-01-12.png "코틀린 사용"
+[markdown]: https://gist.github.com/raindragonn/7e64da15b9365a5e8d6b53577b71ef77 "마크다운 작성법"
+[엘리]: https://youtu.be/kMEb_BzyUqk
+[총정리]: https://heropy.blog/2017/09/30/markdown/
