@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      [TIL] md파일 작성법
-subtitle:   마크다운 이용 가이드
+title:      "[TIL] md파일 작성법"
+subtitle:   "마크다운 이용 가이드"
 date:       2021-01-12
 author:     "raindragon"
 header-style: text
