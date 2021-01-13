@@ -1,11 +1,11 @@
-# Site settings
+  # Site settings
 title: 파란돼지의 메모리
 SEOTitle: BluePig's Dev_log
 header-img: img/home-bg.jpg
 email: raindragonn@gmail.com
 description: "95년 을해년 안드로이드 개발자 입니다."
 keyword: "android, Android, Kotlin, kotlin, java, Java, Mobile, Application, Moblie Application, Developer, 안드로이드, 앱 개발자, 개발자"
-url: "raindragonn.github.io"              # your host, for absolute URL
+url: "https:://raindragonn.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
