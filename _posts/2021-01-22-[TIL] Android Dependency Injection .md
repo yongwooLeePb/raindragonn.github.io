@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "[TIL] Android DI"
+title:      "[TIL] DI,의존성 주입"
 subtitle:   "Dependency Injection"
 date:       2021-01-22
 author:     "raindragon"
