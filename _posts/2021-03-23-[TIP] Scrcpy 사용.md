@@ -55,6 +55,32 @@ Mac OS 에서 설치법
     $ scrcpy --help
 
 
+## 단축키
+
+ | 실행내용                                |   단축키                       |   단축키 (macOS)
+ | -------------------------------------- |:----------------------------- |:-----------------------------
+ | 전체화면 모드로 전환                      | `Ctrl`+`f`                    | `Cmd`+`f`
+ | window를 1:1비율로 전환하기(픽셀 맞춤)   | `Ctrl`+`g`                    | `Cmd`+`g`
+ | 검은 공백 제거 위한 window 크기 조정  | `Ctrl`+`x` \| _Double-click¹_ | `Cmd`+`x`  \| _Double-click¹_
+ |`HOME` 클릭                        | `Ctrl`+`h` \| _Middle-click_  | `Ctrl`+`h` \| _Middle-click_
+ | `BACK` 클릭                      | `Ctrl`+`b` \| _Right-click²_  | `Cmd`+`b`  \| _Right-click²_
+ | `APP_SWITCH` 클릭                 | `Ctrl`+`s`                    | `Cmd`+`s`
+ | `MENU` 클릭                       | `Ctrl`+`m`                    | `Ctrl`+`m`
+ | `VOLUME_UP` 클릭                   | `Ctrl`+`↑` _(up)_             | `Cmd`+`↑` _(up)_
+ | `VOLUME_DOWN` 클릭                | `Ctrl`+`↓` _(down)_           | `Cmd`+`↓` _(down)_
+ | `POWER` 클릭                      | `Ctrl`+`p`                    | `Cmd`+`p`
+ | 전원 켜기                               | _Right-click²_                | _Right-click²_
+ | 미러링 중 디바이스 화면 끄기    | `Ctrl`+`o`                    | `Cmd`+`o`
+ | 알림 패널 늘리기               | `Ctrl`+`n`                    | `Cmd`+`n`
+ | 알림 패널 닫기            | `Ctrl`+`Shift`+`n`            | `Cmd`+`Shift`+`n`
+ | 디바이스의 clipboard 컴퓨터로 복사하기      | `Ctrl`+`c`                    | `Cmd`+`c`
+ | 컴퓨터의 clipboard 디바이스에 붙여넣기     | `Ctrl`+`v`                    | `Cmd`+`v`
+ | Copy computer clipboard to device      | `Ctrl`+`Shift`+`v`            | `Cmd`+`Shift`+`v`
+ | Enable/disable FPS counter (on stdout) | `Ctrl`+`i`                    | `Cmd`+`i`
+
+_¹검은 공백을 제거하기 위해서는 그 부분을 더블 클릭하세요_
+_²화면이 꺼진 상태에서 우클릭 시 다시 켜지며, 그 외의 상태에서는 뒤로 돌아갑니다.
+
 
 
 
