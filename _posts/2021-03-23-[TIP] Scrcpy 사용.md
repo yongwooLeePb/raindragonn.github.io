@@ -78,8 +78,6 @@ Mac OS 에서 설치법
  | Copy computer clipboard to device      | `Ctrl`+`Shift`+`v`            | `Cmd`+`Shift`+`v`
  | Enable/disable FPS counter (on stdout) | `Ctrl`+`i`                    | `Cmd`+`i`
 
-_¹검은 공백을 제거하기 위해서는 그 부분을 더블 클릭하세요_
-_²화면이 꺼진 상태에서 우클릭 시 다시 켜지며, 그 외의 상태에서는 뒤로 돌아갑니다.
 
 
 
