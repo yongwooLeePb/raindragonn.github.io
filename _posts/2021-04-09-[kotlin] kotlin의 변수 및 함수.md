@@ -198,5 +198,4 @@ fun <T> asList(vararg ts: T): List<T> {
 val list = asList(1,2,3)
 ```
 
-
-
+참조 : 깡샘의코틀린 프로그래밍
