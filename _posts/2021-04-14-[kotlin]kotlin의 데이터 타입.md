@@ -215,9 +215,31 @@ val mutableSet : MutableSet<Int> = mutableSetOf(1,1,2)
 
 > 이터레이터는 컬렉션 타입의 데이터를 차례로 얻어서 사용하기 위한 인터페이스 입니다.
 
+해당 인터페이스에 내장된 메서드에는 두가지가 있습니다.
 
+`public operator fun next(): T` - 실제 데이터를 가져오는 함수
 
+`public operator fun hasNext(): Boolean` - 가져올 수 있는 데이터가 있으면 true, 없으면 false 반환
 
+**ex)**
+
+```kotlin
+fun main(){
+    val listValue : List<String> = listOf("hello","world")
+
+    val iterator = listValue.iterator()
+
+    while (iterator.hasNext()){
+        println(iterator.next())
+    }
+}
+```
+
+**결과**
+```
+hello
+world
+```
 
 
 
