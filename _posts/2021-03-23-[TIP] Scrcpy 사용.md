@@ -82,5 +82,5 @@ Mac OS 에서 설치법
 
 
 
-[scrcpy]:"https://github.com/Genymobile/scrcpy"
-[homebrew]:"https://brew.sh/index_ko"
+[scrcpy]: https://github.com/Genymobile/scrcpy
+[homebrew]: https://brew.sh/index_ko

@@ -36,5 +36,5 @@ tags:
 
 
 
-[Doze_link]: "https://developer.android.com/training/monitoring-device-state/doze-standby"
+[Doze_link]: https://developer.android.com/training/monitoring-device-state/doze-standby
 

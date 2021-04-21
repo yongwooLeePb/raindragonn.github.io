@@ -77,11 +77,11 @@ Activity Context를 참조 후 해당 Activity가 종료 된다면 `GC(가비지
 ---
 참고 자료
 
-[찰스님 블로그]("https://www.charlezz.com/?p=1080")
+[찰스님 블로그](https://www.charlezz.com/?p=1080)
 
-[안드로이드 - 4대 컴포넌트, 생명주기, 컨텍스트, 인텐트]("https://stickode.com/detail.html?no=1755")
+[안드로이드 - 4대 컴포넌트, 생명주기, 컨텍스트, 인텐트](https://stickode.com/detail.html?no=1755)
 
-[Yub's님 블로그]("https://velog.io/@jaeyunn_15/Android-Context")
+[Yub's님 블로그](https://velog.io/@jaeyunn_15/Android-Context)
 
 
-[Android Reference]:"https://developer.android.com/reference/android/content/Context"
+[Android Reference]: https://developer.android.com/reference/android/content/Context
