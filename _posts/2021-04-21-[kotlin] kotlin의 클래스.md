@@ -8,8 +8,7 @@ header-style: text
 catalog: true
 lang: ko
 tags:
-    - kotlin
-    - class
+    - kotlin basic
 ---
 
 ## class

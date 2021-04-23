@@ -8,7 +8,7 @@ header-style: text
 catalog: true
 lang: ko
 tags:
-    - kotlin
+    - kotlin basic
     - if, when, for, while
 ---
 

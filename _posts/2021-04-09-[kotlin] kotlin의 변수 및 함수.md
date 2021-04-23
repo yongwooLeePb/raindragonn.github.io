@@ -1,14 +1,14 @@
 ---
 layout:     post
 title:      "[kotlin] kotlin 의 변수 및 함수"
-subtitle:   "kotlin"
+subtitle:   "var, val, fun"
 date:       2021-04-09
 author:     "raindragon"
 header-style: text
 catalog: true
 lang: ko
 tags:
-    - kotlin
+    - kotlin basic
 ---
 
 
