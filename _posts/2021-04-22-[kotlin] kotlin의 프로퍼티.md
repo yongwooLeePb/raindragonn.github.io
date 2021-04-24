@@ -2,7 +2,7 @@
 layout:     post
 title:      "[kotlin] kotlin의 프로퍼티"
 subtitle:   "kotlin property"
-date:       2021-04-15
+date:       2021-04-22
 author:     "raindragon"
 header-style: text
 catalog: true

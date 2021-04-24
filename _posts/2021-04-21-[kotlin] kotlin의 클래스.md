@@ -2,7 +2,7 @@
 layout:     post
 title:      "[kotlin] kotlin의 클래스"
 subtitle:   "kotlin class"
-date:       2021-04-15
+date:       2021-04-21
 author:     "raindragon"
 header-style: text
 catalog: true

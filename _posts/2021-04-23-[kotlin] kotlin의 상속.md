@@ -2,7 +2,7 @@
 layout:     post
 title:      "[kotlin] kotlin의 상속"
 subtitle:   "kotlin 상속"
-date:       2021-04-15
+date:       2021-04-23
 author:     "raindragon"
 header-style: text
 catalog: true
@@ -315,3 +315,8 @@ println("result = ${smartCast(10.0)}")
 ```
 객체 as 타입
 ```
+
+
+---
+
+참조 : 깡샘의 코틀린 프로그래밍
