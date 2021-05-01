@@ -23,6 +23,7 @@ tags:
 |`forEachIndexed()`|forEach() 함수와 동일하며, 람다 함수에 인덱스 값을 추가로 전달해 줍니다.|
 
 ex)
+
 ```kotlin
 val testList = (0..10).toList()
 
