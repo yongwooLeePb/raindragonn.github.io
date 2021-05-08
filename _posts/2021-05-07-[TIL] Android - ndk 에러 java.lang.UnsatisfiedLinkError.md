@@ -62,7 +62,8 @@ android {
 2021-05-08 추가사항
 
  * 위의 명령어를 통해 abi를 설정한다면 해당하지 않는 cpu를 가진 핸드폰에서는 지원하지 않기 때문에 잘 선택해서 사용해야 합니다.
-
+ 
+ * [보다 나은 설명][chacha]
 
 ---
 
@@ -84,3 +85,5 @@ android {
 [analyzer_before]: /img/post/2021-05-07-before.png 
 
 [analyzer_after]: /img/post/2021-05-07-after.png 
+
+[chacha]: https://codechacha.com/ko/support-64-bit-app-in-android/
