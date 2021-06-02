@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "[TIL]Android - BuildConfig 변수 추가"
-subtitle:   "oop_solid"
+subtitle:   "BuildConfig"
 date:       2021-05-31
 author:     "raindragon"
 header-style: text
