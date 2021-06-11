@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "[TIL]Android - BuildConfig 변수 추가"
+title:      "[TIL]Android - BuildConfig 상수 추가"
 subtitle:   "BuildConfig"
 date:       2021-05-31
 author:     "raindragon"
