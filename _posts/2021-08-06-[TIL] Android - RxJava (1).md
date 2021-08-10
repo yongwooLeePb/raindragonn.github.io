@@ -618,7 +618,7 @@ fun test() {
 
 매개 변수를 지정하지 않을경우 `autoConnect(1)`과 동일하게 동작하며, 구독하자마자 아이템 발행을 시작합니다.
 
-#### Disposable 다루기
+#### <span style="color:black">Disposable 다루기</span>
 
 `subscribe()`메서드를 호출하면 Disposable 객체를 반환 합니다.
 
@@ -661,7 +661,7 @@ fun test() {
 또한, `onComplete()`를 명시적으로 호출하거나 호출됨을 보장한다면 `dispose()`를 호출할 필요 없습니다.
 
 
-#### CompositeDisposable
+#### <span style="color:black">CompositeDisposable</span>
 
 구독자가 여러 곳에 있으며, 이들을 폐기하려면 각각의 Disposabe 객체에 대해서 `dispose()`를 호출해야하지만, CompositeDisposable을 통해 한꺼번에 폐기할 수 있습니다.
 
