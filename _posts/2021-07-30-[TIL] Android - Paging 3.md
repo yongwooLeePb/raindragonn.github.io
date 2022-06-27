@@ -275,7 +275,7 @@ class MainActivity : AppCompatActivity() {
 adapter의 submitData를 통해 pagingData를 넘겨주면 됩니다.
 
 
-**예제 코드는 [여기서](git) 확인할 수 있습니다.**
+**예제 코드는 [여기서][git] 확인할 수 있습니다.**
 
 ---
 
